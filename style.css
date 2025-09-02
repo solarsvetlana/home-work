@@ -1,9 +1,10 @@
 *{
-    background-color: lightblue ;
+    background-color: rgb(161, 220, 240) ;
 }
 #next{
     margin-bottom: 20px;
 }
 #dogImage{
+    margin-top: 20px;
     border: 2px solid black;
 }
